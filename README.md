@@ -39,10 +39,13 @@ Complete source code is available in the Code directory.
 
 **Step 1:**
 Place the external antenna in a place where it is exposed to outdoor.
+
 **Step 2:**
 Connect one end of RJ45 cable into Ethernet shield and the other end to a router (connected to Internet) which has DHCP enabled. Once done, the device will automatically get its IP address.
+
 **Step 3:**
 Connect the power supply jack to the Arduino UNO and turn on the power. 
+
 **Step 4:**
 Identify the device status 
 RED LED near GPS shield’s antenna connector
